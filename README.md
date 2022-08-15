@@ -26,3 +26,8 @@ ___
 
 <!--Escape Character using backslash-->
 This is an example of showing text with an *astersik* that will not be Italized, example \*asterisk*
+
+<!--Block Quote-->
+>This is going to be displayed as a qoute with a background and line on the left side
+___
+
