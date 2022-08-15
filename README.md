@@ -34,4 +34,6 @@ ___
 
 <!--Creating Links-->
 **Note** the text that will go in the links should be in brackers and the links in parenthesis.
-Docker :(https://www.youtube.com/watch?v=qkkiUBcCH2A&list=PLHztOObXYCYFEJTcyOxBKPmaFk3LZX0_N&index=10)
+[YT] :(https://www.youtube.com/watch?v=qkkiUBcCH2A&list=PLHztOObXYCYFEJTcyOxBKPmaFk3LZX0_N&index=10)
+**Note** if we want to add a tittle tooltip add a space inside a parenthesis with a qoutes to display a baloon tip
+[YT]("https://www.youtube.com/watch?v=qkkiUBcCH2A&list=PLHztOObXYCYFEJTcyOxBKPmaFk3LZX0_N&index=10")
