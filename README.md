@@ -29,5 +29,9 @@ This is an example of showing text with an *astersik* that will not be Italized,
 
 <!--Block Quote-->
 >This is going to be displayed as a qoute with a background and line on the left side
+
 ___
 
+<!--Creating Links-->
+**Note** the text that will go in the links should be in brackers and the links in parenthesis.
+Docker :(https://www.youtube.com/watch?v=qkkiUBcCH2A&list=PLHztOObXYCYFEJTcyOxBKPmaFk3LZX0_N&index=10)
