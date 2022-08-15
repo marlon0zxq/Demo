@@ -10,4 +10,8 @@ Demo Exercise
 
 <!--Italics-->
 _this paragraph is going to be italic using underscores_
-*this paragaraph is going to be italic using starts*
+*this paragraph is going to be italic using starts*
+
+<!--Strong-->
+This will look bold style text using star **Strong**
+This will look bold style text using underscore __Strong__
